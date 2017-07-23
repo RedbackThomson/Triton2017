@@ -1,0 +1,22 @@
+.footer-copyright {
+  font-size: 0.9rem;
+}
+
+.footer-link {
+  color: $black;
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  text-align: center;
+
+  a {
+    color: $black;
+  }
+}
+
+.footer-divider {
+  width: 100%;
+  border-bottom: 5px solid $brand-primary;
+  padding: 5px;
+}

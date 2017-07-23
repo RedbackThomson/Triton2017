@@ -1,0 +1,31 @@
+.subscribe {
+  margin: 3rem;
+
+  &__text {
+    text-align: center;
+    font-size: 1rem;
+  }
+
+  &__form {
+    margin-top: 0.5rem;
+  }
+
+  &__input {
+    background-color: $gray-lighter;
+    border: none;
+    padding: 0.85rem 1rem;
+
+    &:hover, &:focus {
+      background-color: $gray-lighter;
+    }
+
+    &::placeholder {
+      text-transform: uppercase;
+    }
+  }
+
+  &__button {
+    text-transform: uppercase;
+    font-weight: bold;
+  }
+}

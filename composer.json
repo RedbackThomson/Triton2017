@@ -1,0 +1,9 @@
+{
+    "name": "redbackthomson/triton2017",
+    "description": "Wordpress theme for the new Triton News website",
+    "type": "library",
+    "minimum-stability": "stable",
+    "require": {},
+    "keywords": ["wordpress","theme","bootstrap"],
+    "homepage": "https://github.com/redbackthomson/triton2017"
+}

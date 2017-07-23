@@ -1,0 +1,11 @@
+@import "theme/triton_theme_variables";
+@import "assets/bootstrap4";
+@import "../src/sass/understrap/understrap/understrap";
+@import "../src/sass/understrap/theme/contact-form7";
+
+//Optional files - If you don´t use the corresponding scripts/fonts comment em out
+@import "assets/font-awesome";
+@import "assets/underscores";
+
+// Any additional imported files //
+@import "theme/triton_theme";
